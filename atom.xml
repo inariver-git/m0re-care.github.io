@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m0re-care.github.io</id>
     <title>m0re-care&apos;s blog</title>
-    <updated>2021-10-04T00:43:12.349Z</updated>
+    <updated>2021-10-13T07:09:58.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://m0re-care.github.io"/>
     <link rel="self" href="https://m0re-care.github.io/atom.xml"/>
@@ -10,6 +10,33 @@
     <logo>https://m0re-care.github.io/images/avatar.png</logo>
     <icon>https://m0re-care.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, m0re-care&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[记录一些想法]]></title>
+        <id>https://m0re-care.github.io/post/ji-lu-yi-xie-xiang-fa/</id>
+        <link href="https://m0re-care.github.io/post/ji-lu-yi-xie-xiang-fa/">
+        </link>
+        <updated>2021-10-13T07:00:27.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>🎌如何对没见过的cms进行信息搜集？</strong></p>
+<ol>
+<li>找关键字在各大引擎中寻找源码，特别是github和gitee.</li>
+<li>爬取所有的链接分析目录结构，找出其中规律。</li>
+<li>根据网站性质寻找相似开源cms进行目录分析，筛选出关键词。（有时需要缩写）</li>
+<li>将2，3两点寻找出来的可利用的东西进行整理，组成字典进行目录爆破。</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于我挖洞时候突然想到的一些姿势]]></title>
+        <id>https://m0re-care.github.io/post/guan-yu-wo-wa-dong-shi-hou-tu-ran-xiang-dao-de-yi-xie-zi-shi/</id>
+        <link href="https://m0re-care.github.io/post/guan-yu-wo-wa-dong-shi-hou-tu-ran-xiang-dao-de-yi-xie-zi-shi/">
+        </link>
+        <updated>2021-10-08T12:44:56.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>如何在js中快速查找子域名：比如说baidu.com，如果要在他的js中找子域名，可以f3搜索---&gt;<strong>.baidu.com</strong>(没错就是在上级域名前面加个点)。</li>
+</ol>
+<figure data-type="image" tabindex="1"><img src="https://m0re-care.github.io/post-images/1633697352057.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://m0re-care.github.io/post/hello-gridea/</id>
