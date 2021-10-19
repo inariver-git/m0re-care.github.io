@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m0re-care.github.io</id>
     <title>m0re-care&apos;s blog</title>
-    <updated>2021-10-13T07:09:58.247Z</updated>
+    <updated>2021-10-19T13:47:30.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://m0re-care.github.io"/>
     <link rel="self" href="https://m0re-care.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://m0re-care.github.io/images/avatar.png</logo>
     <icon>https://m0re-care.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, m0re-care&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[工具搜集]]></title>
+        <id>https://m0re-care.github.io/post/gong-ju-sou-ji/</id>
+        <link href="https://m0re-care.github.io/post/gong-ju-sou-ji/">
+        </link>
+        <updated>2021-10-19T13:45:53.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>主机碰撞--bp插件 https://github.com/pmiaowu/HostCollision</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[记录一些想法]]></title>
         <id>https://m0re-care.github.io/post/ji-lu-yi-xie-xiang-fa/</id>
